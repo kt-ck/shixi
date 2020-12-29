@@ -1,3 +1,49 @@
+.logoText{
+    width: 100%;
+    font-size: 20px;
+    font-family: PingFangSC-Semibold, PingFang SC;
+    font-weight: 600;
+    color: #FFFFFF;
+    line-height: 28px;
+}
+
+.circle{
+    width: 44px;
+    height: 44px;
+    background-color: #D8D8D8;
+    border-radius: 22px;
+    margin-left: 23px;
+}
+
+.footerHead{
+    height: 40px;
+    font-size: 28px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 40px;
+}
+
+.footerContent1{
+    height: 56px;
+    font-size: 20px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 28px;
+}
+
+.footerContent2{
+    height: 28px;
+    font-size: 20px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 28px;
+}
+
+
+
 /* Deafult Margin & Padding */
 /*-- Margin Top --*/
 .mt-5 {

@@ -1,0 +1,122 @@
+
+.myNavTitle{
+    font-size: 18px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #31353A;
+    line-height: 25px;
+}
+
+.head1{
+    height: 50px;
+    font-size: 36px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #31353A;
+    line-height: 50px;
+}
+
+.subTitle11{
+    height: 20px;
+    font-size: 14px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #969DA3;
+    line-height: 20px;
+}
+
+.subTitle12{
+    height: 22px;
+    font-size: 16px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #969DA3;
+    line-height: 22px;
+}
+
+.content1{
+    height: 33px;
+    font-size: 24px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #31353A;
+    line-height: 33px;
+}
+
+.head2{
+    height: 50px;
+    font-size: 36px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #31353A;
+    line-height: 50px;
+}
+
+.subTitle21{
+    height: 20px;
+    font-size: 14px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #969DA3;
+    line-height: 20px;
+}
+
+.content12{
+    height: 22px;
+    font-size: 16px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #969DA3;
+    line-height: 22px;
+}
+
+.subTitle22{
+    height: 17px;
+    font-size: 14px;
+    font-family: Helvetica;
+    color: #969DA3;
+    line-height: 17px;
+}
+
+.head3{
+    height: 49px;
+    font-size: 35px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 49px;                       
+}
+
+.subTitle31{
+    height: 14px;
+    font-size: 12px;
+    font-family: Helvetica;
+    color: #FFFFFF;
+    line-height: 14px;       
+}
+
+.subTitle32{
+    height: 44px;
+    font-size: 16px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 22px;
+}
+
+.content2{
+    height: 33px;
+    font-size: 24px;
+    font-family: PingFangSC-Medium, PingFang SC;
+    font-weight: 500;
+    color: #FFFFFF;
+    line-height: 33px;  
+}
+
+.subTitle41{
+    height: 34px;
+    font-size: 14px;
+    font-family: Helvetica;
+    color: #969DA3;
+    line-height: 17px;
+}
